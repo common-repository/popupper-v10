@@ -1,0 +1,117 @@
+# popupper-v10 translation file
+# This file is put in the public domain.
+# Copyright (C) 2008 Edward P. Hogan
+# http://ehogan.itis5am.com:8080/popupper
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: popupper-v10 1.5\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/popupper-v10\n"
+"POT-Creation-Date: 2008-12-19 02:39+0000\n"
+"PO-Revision-Date: 2008-01-03 08:00+0000\n"
+"Last-Translator: Edward P. Hogan <itis5ambot@gmail.com>\n"
+"Language-Team: Edward P. Hogan <itis5ambot@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: popupper.php:32
+msgid "You are not allowed to call this page directly."
+msgstr ""
+
+#: popupper.php:40
+msgid "Sorry, Popupper works only under WordPress 2.1 or higher"
+msgstr ""
+
+#: in javascript array
+msgid "Create Popup"
+msgstr ""
+
+#: popup_dialog.php:22 popup_dialog:46
+msgid "Insert Popup"
+msgstr ""
+
+#
+msgid "Image URL"
+msgstr ""
+
+#
+msgid "Image Description"
+msgstr ""
+
+#
+msgid "Dimensions"
+msgstr ""
+
+#
+msgid "Link Decoration"
+msgstr ""
+
+#
+msgid "Underlining"
+msgstr ""
+
+#
+msgid "underline"
+msgstr ""
+
+#
+msgid "double underline"
+msgstr ""
+
+#
+msgid "dashed underline"
+msgstr ""
+
+#
+msgid "bold"
+msgstr ""
+
+#
+msgid "bold underline"
+msgstr ""
+
+#
+msgid "Bordering"
+msgstr ""
+
+#
+msgid "dashed box"
+msgstr ""
+
+#
+msgid "dotted box"
+msgstr ""
+
+#
+msgid "Highlighting"
+msgstr ""
+
+#
+msgid "yellow highlight"
+msgstr ""
+
+#
+msgid "light-blue highlight"
+msgstr ""
+
+#
+msgid "light-green highlight"
+msgstr ""
+
+#
+msgid "pink highlight"
+msgstr ""
+
+#
+msgid "sample"
+msgstr ""
+
+#
+msgid "Popup Text"
+msgstr ""
+
+#
+msgid "Preview"
+msgstr ""

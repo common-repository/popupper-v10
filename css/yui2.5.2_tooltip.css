@@ -1,0 +1,47 @@
+/*
+Copyright (c) 2008, Yahoo! Inc. All rights reserved.
+Code licensed under the BSD License:
+http://developer.yahoo.net/yui/license.txt
+version: 2.5.2
+*/
+/*
+ * Modified by Ed Hogan 
+ *
+ * originally was container.css,
+ *  - reduced to contain only the css info needed to build tooltips.
+ *  - dropped "yui-skin-sam", since body tag may be out of our control
+ *  - formatted to avoid intentional obfuscation
+ *  - renamed to avoid conflict with other container.css usage
+ */
+.yui-overlay{
+	visibility:hidden;
+	position:absolute;
+	z-index:2;
+}
+.yui-tt-shadow{
+	position:absolute;
+}
+.yui-tt .bd{
+	position:relative;
+	top:0;
+	left:0;
+	z-index:1;
+	color:#000;
+	padding:2px 5px;
+	border-color:#D4C237 #A6982B #A6982B #A6982B;
+	border-width:1px;
+	border-style:solid;
+	background-color:#FFEE69;
+}
+.yui-tt-shadow{
+	top:2px;
+	right:-3px;
+	left:-3px;
+	bottom:-3px;
+	background-color:#000;
+}
+.yui-tt-shadow-visible{
+	opacity:.12;
+	filter:alpha(opacity=12);
+}
+

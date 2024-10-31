@@ -1,0 +1,117 @@
+# popupper-v10 translation file
+# This file is put in the public domain.
+# Copyright (C) 2008 Edward P. Hogan
+# http://ehogan.itis5am.com:8080/popupper
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: popupper-v10 1.6\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/popupper-v10\n"
+"POT-Creation-Date: 2008-12-19 02:39+0000\n"
+"PO-Revision-Date: 2008-01-03 08:00+0000\n"
+"Last-Translator: Edward P. Hogan <itis5ambot@gmail.com>\n"
+"Language-Team: Edward P. Hogan <itis5ambot@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: popupper.php:32
+msgid "You are not allowed to call this page directly."
+msgstr "Vous n&#39;êtes pas autorisé à appeler cette page directement.t."
+
+#: popupper.php:40
+msgid "Sorry, Popupper works only under WordPress 2.1 or higher"
+msgstr "Désolé, Popupper fonctionne uniquement sous WordPress 2.1 ou supérieur"
+
+#: in javascript array
+msgid "Create Popup"
+msgstr "Créer un popup"
+
+#: popup_dialog.php:22 popup_dialog:46
+msgid "Insert Popup"
+msgstr "Insérer un Popup"
+
+#
+msgid "Image URL"
+msgstr "Adresse web de L&#39;image"
+
+#
+msgid "Image Description"
+msgstr "Description de L&#39;image"
+
+#
+msgid "Dimensions"
+msgstr "Taille"
+
+#
+msgid "Link Decoration"
+msgstr "Lien Décoration"
+
+#
+msgid "Underlining"
+msgstr "Soulignant"
+
+#
+msgid "underline"
+msgstr "souligné"
+
+#
+msgid "double underline"
+msgstr "double souligner"
+
+#
+msgid "dashed underline"
+msgstr "déçus souligner"
+
+#
+msgid "bold"
+msgstr "gras"
+
+#
+msgid "bold underline"
+msgstr "gras souligné"
+
+#
+msgid "Bordering"
+msgstr "Riverains"
+
+#
+msgid "dashed box"
+msgstr "boîte avec des tirets"
+
+#
+msgid "dotted box"
+msgstr "boîte avec des points"
+
+#
+msgid "Highlighting"
+msgstr "Contexte de Couleur"
+
+#
+msgid "yellow highlight"
+msgstr "jaune"
+
+#
+msgid "light-blue highlight"
+msgstr "bleu clair"
+
+#
+msgid "light-green highlight"
+msgstr "vert clair"
+
+#
+msgid "pink highlight"
+msgstr "rose"
+
+#
+msgid "sample"
+msgstr "exemple"
+
+#
+msgid "Popup Text"
+msgstr "Texte en Popup"
+
+#
+msgid "Preview"
+msgstr "Aperçu"
